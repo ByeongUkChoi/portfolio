@@ -4,7 +4,7 @@
 code test
 ```json
 {
-   "this-json": "looks awesome..."
+   "this-json-test": "looks awesome..."
 }
 ```
 ```javascript
