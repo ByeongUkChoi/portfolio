@@ -8,7 +8,7 @@
          "company" : "Linuxwares",
          "job" : "back-end developer",
          "techStacks" : ["php", "codeigniter4"],
-         "task" : "웹메일 서비스 개발, REST API 개발",
+         "task" : "메일플러그 웹메일 서비스 개발, REST API 개발",
          "projects" : [
          {
          }
