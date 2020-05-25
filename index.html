@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- jquery 3 -->
+    <script src="jquery-3.5.1.min.js"></script>
+    <!-- json viewr -->
+    <script src="./json-viewer/jquery.json-viewer.js"></script>
+    <link href="./json-viewer/jquery.json-viewer.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <pre id="json-renderer"></pre>
+</body>
+<script>
+    $.getJSON("./test.json", function (json) {
+        console.log(json);
+        $('#json-renderer').jsonViewer(json);
+    });
+</script>
+
+</html>
