@@ -14,8 +14,8 @@
    ],
    "projects" : [
       {
-         "name" : "Mafia Game",
-         "description" : "마피아 게임의 사회자 역할을 대신해주는 프로그램",
+         "name" : "Mafia Console Game",
+         "description" : "마피아 게임의 사회자 역할을 대신해주는 콘솔 프로그램",
          "techStacks" : ["c++"],
          "period" : "2019. 06. - 2019. 07.",
          "url" : "https://github.com/ChoiBU/MafiaGame_single_cpp"
