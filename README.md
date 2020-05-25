@@ -12,3 +12,16 @@ code test
    "this-json2": "looks awesome..."
 }
 ```
+
+``` yaml
+server:
+  port: 8088
+
+logging:
+  level:
+    org.springframework: DEBUG
+
+spring:
+  messages:
+    basename: messages
+```
