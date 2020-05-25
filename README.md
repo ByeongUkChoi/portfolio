@@ -1,6 +1,8 @@
 #test
 ## h2 test
 
+![testjson](./test.json)
+
 code test
 ```json
 {
