@@ -6,13 +6,10 @@
    "career" : [
       {
          "company" : "Linuxwares",
+         "period" : "2018. 01. - 재직 중",
          "job" : "back-end developer",
          "techStacks" : ["php", "codeigniter4"],
-         "task" : "메일플러그 웹메일 서비스 개발, REST API 개발",
-         "projects" : [
-         {
-         }
-      ]
+         "task" : "메일플러그 웹메일 서비스 개발, REST API 개발"
       }
    ],
    "projects" : [
