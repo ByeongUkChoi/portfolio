@@ -1,31 +1,18 @@
 #test
 ## h2 test
 
-![testjson](./test.json)
-
-```json
-[testjson](./test.json)
-
-```
-```json
-(./test.json)
-
-```
 code test
 ```json
-{
-   "this-json-test": "looks awesome..."
-}
+{ "this-json-test": "looks awesome..." }
 ```
 ```javascript
-{
-   "this-json2": "looks awesome..."
-}
+{ "this-json2": "looks awesome..." }
 ```
 
 ``` yaml
 server:
   port: 8088
+server.port2: 8080
 
 logging:
   level:
