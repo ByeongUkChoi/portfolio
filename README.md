@@ -3,6 +3,14 @@
 
 ![testjson](./test.json)
 
+```json
+[testjson](./test.json)
+
+```
+```json
+(./test.json)
+
+```
 code test
 ```json
 {
