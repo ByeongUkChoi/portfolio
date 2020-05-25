@@ -2,9 +2,7 @@
 ## h2 test
 
 code test
-```
+```yaml
 {
-	"abc" : "abcd",
-	"test" : ["a", "b"]
+   "this-json": "looks awesome..."
 }
-```
