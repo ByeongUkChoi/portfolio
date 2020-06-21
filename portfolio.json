@@ -14,6 +14,13 @@
    ],
    "projects" : [
       {
+         "name" : "OAuth2 Authorization Server",
+         "description" : "OAuth2 인증 서버 구현",
+         "techStacks" : ["java", "spring"],
+         "period" : "2019. 05. - 진행중",
+         "url" : "https://github.com/ChoiBU/AuthorizationServer"
+      },
+      {
          "name" : "Mafia Console Game",
          "description" : "마피아 게임의 사회자 역할을 대신해주는 콘솔 프로그램",
          "techStacks" : ["c++"],
