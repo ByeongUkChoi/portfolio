@@ -14,11 +14,18 @@
    ],
    "projects" : [
       {
-         "name" : "OAuth2 Authorization Server",
-         "description" : "OAuth2 인증 서버 구현",
+         "name" : "OAuth2.0 Authorization Server",
+         "description" : "OAuth2.0 인증 서버 구현 (spring boot)",
          "techStacks" : ["java", "spring"],
-         "period" : "2019. 05. - 진행중",
-         "url" : "https://github.com/ChoiBU/AuthorizationServer"
+         "period" : "2020. 05. - 2020.08",
+         "url" : "https://github.com/ByeongUkChoi/oauth2-server-spring-boot"
+      },
+      {
+         "name" : "OAuth2.0 Library (java)",
+         "description" : "OAuth2 인증 서버 라이브러리 (java)",
+         "techStacks" : ["java"],
+         "period" : "2020. 07. - 2020",
+         "url" : "https://github.com/ByeongUkChoi/oauth2-server-java"
       },
       {
          "name" : "Mafia Console Game",
