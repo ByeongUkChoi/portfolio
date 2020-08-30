@@ -1,7 +1,7 @@
 {
    "name" : "최병욱",
    "emailAddress" : "cbw0916@gmail.com",
-   "github" : "https://github.com/ChoiBU",
+   "github" : "https://github.com/ByeongUkChoi",
    "blog" : "https://unhosted.tistory.com/",
    "career" : [
       {
@@ -17,14 +17,14 @@
          "name" : "OAuth2.0 Authorization Server",
          "description" : "OAuth2.0 인증 서버 구현 (spring boot)",
          "techStacks" : ["java", "spring"],
-         "period" : "2020. 05. - 2020.08",
+         "period" : "2020. 05. - 2020. 08",
          "url" : "https://github.com/ByeongUkChoi/oauth2-server-spring-boot"
       },
       {
          "name" : "OAuth2.0 Library (java)",
          "description" : "OAuth2 인증 서버 라이브러리 (java)",
          "techStacks" : ["java"],
-         "period" : "2020. 07. - 2020",
+         "period" : "2020. 07. - 2020 .08",
          "url" : "https://github.com/ByeongUkChoi/oauth2-server-java"
       },
       {
@@ -32,14 +32,14 @@
          "description" : "마피아 게임의 사회자 역할을 대신해주는 콘솔 프로그램",
          "techStacks" : ["c++"],
          "period" : "2019. 06. - 2019. 07.",
-         "url" : "https://github.com/ChoiBU/MafiaGame_single_cpp"
+         "url" : "https://github.com/ByeongUkChoi/MafiaGame_single_cpp"
       },
       {
          "name" : "TIL github blog",
          "description" : "vuepress를 이용하여 만든 깃허브 블로그",
          "techStacks" : ["vuepress"],
          "period" : "2018. 09. - 2018. 10.",
-         "url" : "https://github.com/ChoiBU/TIL"
+         "url" : "https://github.com/ByeongUkChoi/TIL"
       },
       {
          "name" : "WebSocket chatting",
@@ -53,7 +53,7 @@
          "description" : "기업의 재무 데이터를 바탕으로 재무 정보를 제공하는 어플리케이션",
          "techStacks" : ["java"],
          "period" : "2017. 09. - 2017. 12.",
-         "url" : "https://github.com/ChoiBU/CFR_PROJECT"
+         "url" : "https://github.com/ByeongUkChoi/CFR_PROJECT"
       },
       {
          "name" : "Moa",
