@@ -5,8 +5,15 @@
    "blog" : "https://unhosted.tistory.com/",
    "career" : [
       {
+         "company" : "---",
+         "period" : "2020. 11. 16 - 재직 중",
+         "job" : "---",
+         "techStacks" : ["---"],
+         "task" : "---"
+      },
+      {
          "company" : "Linuxwares",
-         "period" : "2018. 01. - 재직 중",
+         "period" : "2018. 01. 02 - 2020. 11. 13",
          "job" : "back-end developer",
          "techStacks" : ["php", "codeigniter4"],
          "task" : "메일플러그 웹메일 서비스 개발, REST API 개발"
