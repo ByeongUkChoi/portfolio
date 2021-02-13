@@ -5,10 +5,10 @@
    "blog" : "https://unhosted.tistory.com/",
    "career" : [
       {
-         "company" : "---",
+         "company" : "다우기술",
          "period" : "2020. 11. 16 - 재직 중",
-         "job" : "---",
-         "techStacks" : ["---"],
+         "job" : "web developer",
+         "techStacks" : ["java", "spring boot", "vue.js"],
          "task" : "---"
       },
       {
@@ -21,9 +21,16 @@
    ],
    "projects" : [
       {
+         "name" : "JustSNS",
+         "description" : "spring boot, vue.js 기반 게시판",
+         "techStacks" : ["java", "spring boot", "vue.js"],
+         "period" : "2020. 11. - 2020. 11",
+         "url" : "https://github.com/ByeongUkChoi/justSNS"
+      },
+      {
          "name" : "OAuth2.0 Authorization Server",
          "description" : "OAuth2.0 인증 서버 구현 (spring boot)",
-         "techStacks" : ["java", "spring"],
+         "techStacks" : ["java", "spring boot"],
          "period" : "2020. 05. - 2020. 08",
          "url" : "https://github.com/ByeongUkChoi/oauth2-server-spring-boot"
       },
